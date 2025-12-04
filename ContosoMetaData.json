@@ -1,0 +1,38 @@
+[
+    {
+        "source_url" : "refs/heads/main/data/store.csv", 
+        "sink_folder" : "ContosoBronze",
+        "sink_file" : "store.csv"
+    },
+    {
+        "source_url" : "refs/heads/main/data/currencyexchange.csv", 
+        "sink_folder" : "ContosoBronze",
+        "sink_file" : "currencyexchange.csv"
+    },
+    {
+        "source_url" : "refs/heads/main/data/customer.csv", 
+        "sink_folder" : "ContosoBronze",
+        "sink_file" : "customer.csv"
+    },
+    {
+        "source_url" : "refs/heads/main/data/date.csv", 
+        "sink_folder" : "ContosoBronze",
+        "sink_file" : "date.csv"
+    },
+    {
+        "source_url" : "refs/heads/main/data/orders.csv", 
+        "sink_folder" : "ContosoBronze",
+        "sink_file" : "orders.csv"
+    },
+    {
+        "source_url" : "refs/heads/main/data/product.csv", 
+        "sink_folder" : "ContosoBronze",
+        "sink_file" : "product.csv"
+    },
+    {
+        "source_url" : "refs/heads/main/data/sales.csv", 
+        "sink_folder" : "ContosoBronze",
+        "sink_file" : "sales.csv"
+    }
+
+]
