@@ -1,27 +1,27 @@
 [
     {
         "source_url" : "refs/heads/main/data/Orders_2021_2023.csv", 
-        "sink_folder" : "ContosoBronze",
+        "sink_folder" : "BronzeLK",
         "sink_file" : "Orders_2021_2023.csv"
     },
     {
         "source_url" : "refs/heads/main/data/Products.csv", 
-        "sink_folder" : "ContosoBronze",
+        "sink_folder" : "BronzeLK",
         "sink_file" : "Products.csv"
     },
     {
         "source_url" : "refs/heads/main/data/Categories.csv", 
-        "sink_folder" : "ContosoBronze",
+        "sink_folder" : "BronzeLK",
         "sink_file" : "Categories.csv"
     },
     {
         "source_url" : "refs/heads/main/data/Customer.csv", 
-        "sink_folder" : "ContosoBronze",
+        "sink_folder" : "BronzeLK",
         "sink_file" : "Customer.csv"
     },
     {
         "source_url" : "refs/heads/main/data/Invoices_2021_2023.csv", 
-        "sink_folder" : "ContosoBronze",
+        "sink_folder" : "BronzeLK",
         "sink_file" : "Invoices_2021_2023.csv"
     }
 ]
