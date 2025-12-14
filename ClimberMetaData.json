@@ -2,26 +2,26 @@
     {
         "source_url" : "refs/heads/main/data/Orders_2021_2023.csv", 
         "sink_folder" : "BronzeLK",
-        "sink_file" : "Orders_2021_2023.csv"
+        "sink_file" : "Orders"
     },
     {
         "source_url" : "refs/heads/main/data/Products.csv", 
         "sink_folder" : "BronzeLK",
-        "sink_file" : "Products.csv"
+        "sink_file" : "Products"
     },
     {
         "source_url" : "refs/heads/main/data/Categories.csv", 
         "sink_folder" : "BronzeLK",
-        "sink_file" : "Categories.csv"
+        "sink_file" : "Categories"
     },
     {
         "source_url" : "refs/heads/main/data/Customer.csv", 
         "sink_folder" : "BronzeLK",
-        "sink_file" : "Customer.csv"
+        "sink_file" : "Customers"
     },
     {
         "source_url" : "refs/heads/main/data/Invoices_2021_2023.csv", 
         "sink_folder" : "BronzeLK",
-        "sink_file" : "Invoices_2021_2023.csv"
+        "sink_file" : "Invoices"
     }
 ]
